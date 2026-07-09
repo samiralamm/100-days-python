@@ -16,7 +16,7 @@ score = 0
 # print("your score is " + str(score))
 
 # print(6+4/2-(1*2))
-#  float = int("5") / int(2.7)
+# float = int("5") / int(2.7)
 # name = input("what is your name?")
 # print(f"hello,{name}")
 
@@ -26,5 +26,5 @@ score = 0
 # age = 12
 # print(f"you are {age} year old")
 
-age = 12 
-print("you are " + age + "years old")
+# age = 12 
+# print("you are " + age + "years old")
