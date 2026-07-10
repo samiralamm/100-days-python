@@ -6,11 +6,12 @@ bmi = 85 / (1.85**2)
 
 if bmi < 18.5:
     print("underweight")
-elif 18.5 >= bmi < 25.9:
+elif bmi < 25:
     print("normal weight")
 else:
     print("overweight")
 
+# extra option if yoo want otherwise no use 
 # print(bmi)
 # print(int(bmi))
 # print(round(bmi))
